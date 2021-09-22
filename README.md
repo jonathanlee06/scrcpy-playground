@@ -10,6 +10,7 @@ done < <(adb devices | sed '1d')
 ```
 Check out the file [here](https://github.com/jonathanlee06/scrcpy-playground/blob/master/multi-window.sh)
 
+
 #### More to come...
 
 <br/>
